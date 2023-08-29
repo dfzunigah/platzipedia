@@ -1,29 +1,14 @@
 # Platzipedia
 
-TODO
+<!--- 
+Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de Platzi , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
+Este repositorio no pretende dar las respuestas a las preguntas de examenes de certificación de Platzi , sirve de guía para preparse para los exámenes, pues contiene la respuesta, la razón y la clase de Platzi el cuál trata sobre el tema de la pregunta.
 
-- [x] Organizar los examenes https://platzi.com/cursos/
-  - [ ] Por categorias
-  - [ ] Por escuelas
-  - [ ] Por rutas
-  - [ ] Por cursos
-     
-- [x] Implementar source https://github.com/PabloLUC9832/Platzi-Examenes/blob/main/BasesTecnicasAndroid.md
-- [ ] Implementar razón de ser
-- [ ] Implementar titulos en todos
-- [ ] Implementar disclaimer en todos sobre el porque
-- [ ] Implementar disclaimer en todos sobre como contribuir
-- [ ] Implementar lista de cursos y organizacion
-- [ ] Description
-- [ ] Manual para contribuir el manual debe indicar que cada curso que se agrege debe tener un nombre de archivo claro (snake_case.md) y debe ser referenciado correctamente en la tabla del archivo readme
-- [ ] Agregar tags y abouts
-- [ ] releases?
-- [ ] Thanks to other great projects
-- [ ] Colocar notas de los cursos como https://github.com/MineiToshio/CursosPlatzi
-- [ ] Cambiar nombre a Platzipedia
-- [ ] Colocar un legal note y que los contenidos de ellos no son admitidos
-- [ ] Mirar esto, para colocar asi las notas https://augdiaugus.gitbook.io/recoleccion-de-notas-publicas/
-- [ ] Implement a changelog.md
-- [ ] Implement a separate todolist
-- [ ] Deberia agregar las contribuciones de otras personas? Pensar en que eso es lo que hace la comunidad ahí mismo
-- [ ] Meterlo a TuringBox
+Si alguna respuesta esta incorrecta puedes realizar un pull request para colocar la respuesta correcta :D.
+-->
+
+## Agradecimientos
+
+- [Platzi-Examenes de PabloLUC9832](https://github.com/PabloLUC9832/Platzi-Examenes)
+- [CursosPlatzi de Sergio Toshio Minei](https://github.com/MineiToshio/CursosPlatzi)
+- [Platzi-Tests de Shoni Israel](https://github.com/shoniisrael/Platzi-Tests)
