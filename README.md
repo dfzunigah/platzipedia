@@ -1,4 +1,11 @@
-# Platzipedia
+<h1 align="center">
+  <img src="readme-resources/Platzilogo.png">
+  <br/>
+  Platzipedia
+  <br>
+</h1>
+
+<h4 align="center">Resúmenes, examenes y respuestas de los cursos de <a href="https://platzi.com/" target="_blank">Platzi</a>.</h4>
 
 <!--- 
 Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de Platzi , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
