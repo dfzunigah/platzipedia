@@ -19,3 +19,7 @@ TODO
 - [ ] Agregar tags y abouts
 - [ ] releases?
 - [ ] Thanks to other great projects
+- [ ] Colocar notas de los cursos como https://github.com/MineiToshio/CursosPlatzi
+- [ ] Cambiar nombre a Platzipedia
+- [ ] Colocar un legal note y que los contenidos de ellos no son admitidos
+- [ ] Mirar esto, para colocar asi las notas https://augdiaugus.gitbook.io/recoleccion-de-notas-publicas/
