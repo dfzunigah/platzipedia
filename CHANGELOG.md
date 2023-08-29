@@ -16,8 +16,6 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
   - [ ] Por escuelas
   - [ ] Por rutas
   - [ ] Por cursos
-- [ ] Implementar source https://github.com/PabloLUC9832/Platzi-Examenes/blob/main/BasesTecnicasAndroid.md
-- [ ] Implementar razón de la respuesta
 - [ ] Implementar disclaimer sobre el porque en la principal
 - [ ] Implementar disclaimer en todos sobre como contribuir, agregarle enlace
 - [ ] Implementar lista de cursos y organizacion
@@ -41,6 +39,7 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 - Un changelog basado en [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - En el [Readme.md](https://github.com/dfzunigah/platzipedia/blob/main/README.md), colocamos una sección de Thanks to other great projects, Description
 - Un one-liner en el formato, explicando qué hacer si se quiere contribuir.
+- Fuente para cada respuesta.
 
 ### Changed
 
