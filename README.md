@@ -1,4 +1,4 @@
-# platzi-answers
+# Platzipedia
 
 TODO
 
