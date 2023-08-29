@@ -26,3 +26,4 @@ TODO
 - [ ] Implement a changelog.md
 - [ ] Implement a separate todolist
 - [ ] Deberia agregar las contribuciones de otras personas? Pensar en que eso es lo que hace la comunidad ahí mismo
+- [ ] Meterlo a TuringBox
