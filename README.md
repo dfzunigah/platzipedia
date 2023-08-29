@@ -9,7 +9,7 @@ TODO
   - [ ] Por cursos
      
 - [x] Implementar source https://github.com/PabloLUC9832/Platzi-Examenes/blob/main/BasesTecnicasAndroid.md
-- [ ] Implementar razón
+- [ ] Implementar razón de ser
 - [ ] Implementar titulos en todos
 - [ ] Implementar disclaimer en todos sobre el porque
 - [ ] Implementar disclaimer en todos sobre como contribuir
@@ -23,3 +23,6 @@ TODO
 - [ ] Cambiar nombre a Platzipedia
 - [ ] Colocar un legal note y que los contenidos de ellos no son admitidos
 - [ ] Mirar esto, para colocar asi las notas https://augdiaugus.gitbook.io/recoleccion-de-notas-publicas/
+- [ ] Implement a changelog.md
+- [ ] Implement a separate todolist
+- [ ] Deberia agregar las contribuciones de otras personas? Pensar en que eso es lo que hace la comunidad ahí mismo
