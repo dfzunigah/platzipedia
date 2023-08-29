@@ -18,3 +18,4 @@ TODO
 - [ ] Manual para contribuir el manual debe indicar que cada curso que se agrege debe tener un nombre de archivo claro (snake_case.md) y debe ser referenciado correctamente en la tabla del archivo readme
 - [ ] Agregar tags y abouts
 - [ ] releases?
+- [ ] Thanks to other great projects
