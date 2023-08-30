@@ -32,10 +32,9 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ### Added
 
-- [📚 Carrera - Introducción a la Creación Audiovisual](https://github.com/dfzunigah/platzipedia/blob/main/Carrera%20Introducci%C3%B3n%20a%20la%20Creaci%C3%B3n%20Audiovisual.md)
-- [📖 Curso - Introducción a la Producción Audiovisual](https://github.com/dfzunigah/platzipedia/blob/main/Curso%20de%20Introducci%C3%B3n%20a%20la%20Producci%C3%B3n%20Audiovisual.md)
-- [📖 Curso - Taller de Creación de Contenido con Inteligencia Artificial](https://github.com/dfzunigah/platzipedia/blob/main/Curso%20-%20Taller%20de%20Creaci%C3%B3n%20de%20Contenido%20con%20Inteligencia%20Artificial.md)
-- [📖 Curso - Desafío IA: Crea videos y animaciones con herramientas avanzadas de IA](https://github.com/dfzunigah/platzipedia/blob/main/Curso%20-%20Desaf%C3%ADo%20IA%3A%20Crea%20videos%20y%20animaciones%20con%20herramientas%20avanzadas%20de%20IA.md)
+- [Introducción a la Producción Audiovisual](https://github.com/dfzunigah/platzipedia/blob/main/Curso%20de%20Introducci%C3%B3n%20a%20la%20Producci%C3%B3n%20Audiovisual.md)
+- [Taller de Creación de Contenido con Inteligencia Artificial](https://github.com/dfzunigah/platzipedia/blob/main/Curso%20-%20Taller%20de%20Creaci%C3%B3n%20de%20Contenido%20con%20Inteligencia%20Artificial.md)
+- [Desafío IA: Crea videos y animaciones con herramientas avanzadas de IA](https://github.com/dfzunigah/platzipedia/blob/main/Curso%20-%20Desaf%C3%ADo%20IA%3A%20Crea%20videos%20y%20animaciones%20con%20herramientas%20avanzadas%20de%20IA.md)
 - Un changelog basado en [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - En el [Readme.md](https://github.com/dfzunigah/platzipedia/blob/main/README.md), colocamos una sección de Thanks to other great projects, Description
 - Un one-liner en el formato, explicando qué hacer si se quiere contribuir.
@@ -45,7 +44,7 @@ y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.
 
 - La lista de tareas ahora está en el [CHANGELOG.md](https://github.com/dfzunigah/platzipedia/blob/main/CHANGELOG.md) y no en el readme.
 - El nombre ahora será Platzipedia, pensado en algo mucho más amplio.
-- [📖 Curso - Introducción a la Producción Audiovisual](https://github.com/dfzunigah/platzipedia/blob/main/Curso%20de%20Introducci%C3%B3n%20a%20la%20Producci%C3%B3n%20Audiovisual.md) es el formato que vamos a utilizar, se le aplicó negrita a las preguntas y se colocó el titulo del curso al inicio.
+- [Introducción a la Producción Audiovisual](https://github.com/dfzunigah/platzipedia/blob/main/Curso%20de%20Introducci%C3%B3n%20a%20la%20Producci%C3%B3n%20Audiovisual.md) es el formato que vamos a utilizar, se le aplicó negrita a las preguntas y se colocó el titulo del curso al inicio.
 
   
 ### Removed
